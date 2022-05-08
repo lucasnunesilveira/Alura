@@ -1,0 +1,12 @@
+1650838354328	Rename type 'TipoProduto'
+1650838662836	Rename type 'ProgramaCadastroProduto'
+1650838697861	Rename type 'TelaProduto'
+1650845117625	Rename field 'PRODUTO_NAO_ENCONTRADO'
+1650845236824	Rename field 'codigo'
+1650845381256	Rename field 'preco'
+1650845425782	Rename local variable 'preco'
+1650845602708	Rename type 'Produto'
+1651106472722	Delete element
+1651106484046	Delete element
+1651106775899	Move compilation unit
+1651106783051	Delete element

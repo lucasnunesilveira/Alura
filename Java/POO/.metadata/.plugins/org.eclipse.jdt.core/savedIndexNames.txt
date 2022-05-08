@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/lns/Downloads/POO_JAVA/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3441858323.index
+1412417193.index
+2949097923.index
+1694610871.index
